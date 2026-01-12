@@ -34,14 +34,14 @@
 
 因为良心云采用了较新的 Hy2 协议，很多老旧软件是不支持的。建议按照我的推荐来配置：
 
-### ![✅](https://s.w.org/images/core/emoji/17.0.2/svg/2705.svg) 推荐使用的客户端：
+### 推荐使用的客户端：
 
 *   **Windows：**首选 Clash Verge Rev
 *   **Android：**推荐 Clash Meta、Nekobox 或 FlClash
 *   **iOS：**必选 Shadowrocket (小火箭)、Loon 或 Stash
 *   **macOS：**推荐 Clash Verge 或 Stash
 
-### ![❌](https://s.w.org/images/core/emoji/17.0.2/svg/274c.svg) 明确不支持/不推荐的：
+### 明确不支持/不推荐的：
 
 传统的 Clash for Windows (CFW) 远古版、ClashX、Quantumult X 以及已停更的 Surfboard 均无法完美发挥其协议性能。
 
